@@ -26,7 +26,5 @@ minikube service nginx-service --url -n terraform-example-ns
 
 ## Очистка
 ```shell
-./terraform_init.sh
-./terraform_plan.sh
-./terraform_apply.sh
+./terraform_destroy.sh
 ```
