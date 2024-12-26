@@ -1,5 +1,10 @@
 # Terraform example
 
+Запускать с работающим vpn и minikube:
+```shell
+minikube start
+```
+
 ## Добавление утилиты
 ```shell
 ./terraform_setup.sh
